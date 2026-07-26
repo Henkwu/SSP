@@ -71,11 +71,10 @@ Place the dataset in the following structure:
 ```text
 parent_directory/
 ├── datasets/
-│   └── StressLevelDataset.csv
-└── SSP/
-    ├── run_analysis.py
-    ├── analysis_outputs/
-    └── figures/
+    └── StressLevelDataset.csv
+├── run_analysis.py
+├── analysis_outputs/
+└── figures/
 ```
 
 The dataset used for the reported results has the following properties:
