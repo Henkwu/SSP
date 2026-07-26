@@ -72,7 +72,7 @@ Place the dataset in the following structure:
 parent_directory/
 ├── datasets/
 │   └── StressLevelDataset.csv
-└── Submission_Ready_Manuscript_ESWA_v3/
+└── SSP/
     ├── run_analysis.py
     ├── analysis_outputs/
     └── figures/
